@@ -1,0 +1,12 @@
+{
+  "name": "test_parent_dotnar",
+  "version": "1.0.0",
+  "description": "测试版本继承",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaubee",
+  "license": "MIT",
+  "parentTemplateName":"dotnar_base"
+}
