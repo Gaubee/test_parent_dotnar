@@ -8,5 +8,5 @@
   },
   "author": "Gaubee",
   "license": "MIT",
-  "parent_template_name":"dotnar_base"
+  "parent_template_name":"Gaubee/dotnar_base"
 }
